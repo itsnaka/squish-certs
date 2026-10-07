@@ -1,0 +1,6 @@
+Checking n239.cert.txt
+Epsilon: 1E-40
+S: 15.9493131697291907755698048276826739311219
+Container: OK
+Overlaps: NONE
+VALID

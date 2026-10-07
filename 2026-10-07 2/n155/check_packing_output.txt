@@ -1,0 +1,6 @@
+Checking n155.cert.txt
+Epsilon: 1E-40
+S: 12.9525032026045128219493562937714159488678
+Container: OK
+Overlaps: NONE
+VALID

@@ -1,0 +1,6 @@
+Checking n258.cert.txt
+Epsilon: 1E-40
+S: 16.5634480021391539139585802331566810607911
+Container: OK
+Overlaps: NONE
+VALID
