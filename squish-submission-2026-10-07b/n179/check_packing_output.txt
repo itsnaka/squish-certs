@@ -1,0 +1,6 @@
+Checking n179.cert.txt
+Epsilon: 1E-40
+S: 13.8837954905121865323280871962197124958039
+Container: OK
+Overlaps: NONE
+VALID

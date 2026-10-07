@@ -1,0 +1,6 @@
+Checking n108.cert.txt
+Epsilon: 1E-40
+S: 10.9099400734448774841212070896290242671967
+Container: OK
+Overlaps: NONE
+VALID

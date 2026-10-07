@@ -1,0 +1,6 @@
+Checking n088.cert.txt
+Epsilon: 1E-39
+S: 9.8824510304821346906578583002573908977899
+Container: OK
+Overlaps: NONE
+VALID

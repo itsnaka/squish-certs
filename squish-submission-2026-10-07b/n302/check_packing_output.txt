@@ -1,0 +1,6 @@
+Checking n302.cert.txt
+Epsilon: 1E-40
+S: 17.8813062180958084468329616356641054153443
+Container: OK
+Overlaps: NONE
+VALID

@@ -1,0 +1,6 @@
+Checking n207.cert.txt
+Epsilon: 1E-40
+S: 14.8879922583077481945679210184598489607719
+Container: OK
+Overlaps: NONE
+VALID

@@ -1,0 +1,6 @@
+Checking n199.cert.txt
+Epsilon: 1E-40
+S: 14.6175721735980399529353235266171395778657
+Container: OK
+Overlaps: NONE
+VALID
